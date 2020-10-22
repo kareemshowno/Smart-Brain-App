@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.pp{
+	font-family: 'Raleway',sans-serif;
+	font-weight: bold;
+}
+.detect{
+	background-color: #FF5EDF!important;
+	border-color: transparent;
+	color: #fff;
+}
+.detect:hover {
+	background-color: #f450d4!important;
+	border-color: transparent!important;
+	color: #FFF;
+}
+.container_detect{
+
+}
